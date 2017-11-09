@@ -1,0 +1,18 @@
+#first {
+	width: 50%;
+	height: 200px;
+	/*margin-top: 10px;
+	margin-bottom: 18px;
+	margin-right: auto;
+	margin-left: auto;*/
+
+
+	border-width: 200px;
+	border-style: 2px solid;
+	padding: 25px;
+	background-color: rgb(255,255,0);
+}
+
+#second {
+
+}
